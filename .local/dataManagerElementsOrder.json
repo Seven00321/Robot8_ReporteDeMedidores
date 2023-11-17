@@ -1,0 +1,48 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "validacion&Flowchart_1",
+        "fechaFinal&Flowchart_1",
+        "fechaInicio&Flowchart_1",
+        "getDatos&Flowchart_1",
+        "opcion&Sequence_19",
+        "passwordString&Sequence_14",
+        "userAsset&Sequence_14",
+        "passwordAsset&Sequence_14",
+        "existeArchivo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main(Autosaved).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "existeArchivo&Sequence_1",
+        "opcion&Sequence_19",
+        "getDatos&Flowchart_1",
+        "fechaInicio&Flowchart_1",
+        "fechaFinal&Flowchart_1",
+        "validacion&Flowchart_1",
+        "passwordAsset&Sequence_14",
+        "userAsset&Sequence_14",
+        "passwordString&Sequence_14"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
